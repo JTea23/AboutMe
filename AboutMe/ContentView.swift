@@ -20,7 +20,7 @@ struct ContentView: View {
             Color("pink")
                 .ignoresSafeArea()
                 
-            
+            //practicing git hub
             VStack {
                
                 Text(" Jasmine Trinh ")
